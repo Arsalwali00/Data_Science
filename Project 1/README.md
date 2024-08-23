@@ -13,7 +13,7 @@ This project analyzes a dataset of 21,000 properties for sale in Pakistan, sourc
 
 ## Dataset
 
-The dataset consists of 21,000 property listings in Pakistan, including details like price, property size, and location (latitude and longitude). The data is publicly available and can be found [here](www.zameen.com).
+The dataset consists of 21,000 property listings in Pakistan, including details like price, property size, and location (latitude and longitude). The data is publicly available and can be found.
 
 
 ## Key Findings
